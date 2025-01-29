@@ -159,48 +159,47 @@
             </details>
         </div> -->
         <!-- phần repo --> 
-        <div >
-            <p align="center">
-                <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
-            </p>
-        </div>
-        <hr width="100%">
-        <div>
-            <h3 align="center"> 🥰 Contactate conmigo:</h3>
-            <p align="center">
-                <a href="discord://users/750136427907383387
-">
-                    <img src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
-                        alt="connect discord">
-                </a>
-            </p>
-            <p align="center">
-                ❤️
+      <div>
+    <p align="center">
+        <a href="https://github.com/EnriqueMendia/Monitoreo-Senales-Electricas">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnriqueMendia&show_icons=true&theme=midnight-purple&hide_border=true&repo=Monitoreo-Senales-Electricas" alt="Monitoreo Señales Eléctricas">
+        </a>
+        <a href="https://github.com/EnriqueMendia/Estructura-de-datos">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnriqueMendia&show_icons=true&theme=midnight-purple&hide_border=true&repo=Estructura-de-datos" alt="Estructura de Datos">
+        </a>
+        <a href="https://github.com/EnriqueMendia/Metodos-Numericos---Muller">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnriqueMendia&show_icons=true&theme=midnight-purple&hide_border=true&repo=Metodos-Numericos---Muller" alt="Métodos Numéricos - Muller">
+        </a>
+    </p>
+</div>
+<hr width="100%">
+<div>
+     <h3 align="center">🥰 Contacta conmigo:</h3>
+    <p align="center">
         <a href="https://www.instagram.com/enrique_mendiap/" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
         </a>
         <a href="https://www.linkedin.com/in/enrique-mendia" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
         </a>
         <a href="https://github.com/enriquemendia" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" />
         </a>
         <a href="https://www.youtube.com/@enriquemendia3369" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" />
         </a>
-                ❤️
-            </p>
-        </div>
-        <hr width="100%">
-        <div>
-            <h2 align="center"> 💻 Github Contributions :electron: </h2>
-            <br>
-            <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebathang&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true"
-                    alt="readme active graph" />
-            </div>
+        ❤️
+    </p>
+</div>
+<hr width="100%">
+<div>
+    <h2 align="center">💻 Github Contributions :electron:</h2>
+    <br>
+    <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnriqueMendia&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true" alt="readme active graph" />
+    </div>
+</div>
+
 </body>
 
 </html>
