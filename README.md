@@ -33,31 +33,28 @@
             <h3> 👋 ¡Hola! Mi nombre es Enrique 😎</h3>
     </a>
     <ul>
-        <li>
-            🤗 Estoy explorando GitHub y mejorando mis habilidades en programación 🥳
-        </li>
-        <li>
-            👉 Soy estudiante de Ingeniería en Redes y Telecomunicaciones  👨‍🎓
-        </li>
-        <li>
-            📝 Tengo certificación TOEFL ITP y un título de Proficiency en inglés 📚
-        </li>
-        <li>
-            🏡 Vivo en Santa Cruz <code>Bolivia </code>  🇧🇴 👈 🏙️
-        </li>
-        <li>
-            ✍
-        </li>
-        <li>
-            💯 Tengo experiencia en redes, sistemas inalámbricos e instalación de CCTV 🔧
-        </li>
-        <li>
-            💬 También trabajo en proyectos de ciberseguridad, desarrollo de negocios y soluciones de software 🚀
-        </li>
-        <li>
-            ❤️ ¡Estoy emocionado por compartir mi trabajo y aprender de la comunidad! ❤️
-        </li>
-    </ul>
+    <li>
+        🤗 Estoy perfeccionando mis habilidades de programación y contribuyendo a proyectos en GitHub 🥳
+    </li>
+    <li>
+        👉 Soy estudiante de Ingeniería en Redes y Telecomunicaciones en la UAGRM 👨‍🎓
+    </li>
+    <li>
+        📝 Tengo certificación TOEFL ITP y un título de Proficiency en inglés, lo que me permite comunicarme y colaborar internacionalmente 📚
+    </li>
+    <li>
+        🏡 Vivo en Santa Cruz, Bolivia 🇧🇴, donde trabajo en el diseño e implementación de redes y soluciones IT 📡
+    </li>
+    <li>
+        💯 Tengo experiencia en redes inalámbricas, sistemas de CCTV y optimización de transmisiones de video 📡🔧
+    </li>
+    <li>
+        💬 También estoy involucrado en proyectos de ciberseguridad, desarrollo de negocios y soluciones de software, buscando siempre la mejora continua 🚀
+    </li>
+    <li>
+         Estoy entusiasmado por compartir mi trabajo, aprender de la comunidad y contribuir al avance de la tecnología 🤝
+    </li>
+</ul>
     </div>
      <div>
         <h3 align="left">Languages and Tools:</h3>
@@ -110,16 +107,16 @@
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
         </p>
-        <h3>Tools:</h3>
-        <p>
-            <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
-            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel">
-            <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-            <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku">
-            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-            <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure-devops">
-            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
-        </p>
+       <h3>Tools:</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/bearlikelion/mRemoteNG-Icons/refs/heads/master/ubiquiti.ico" style="width: 32px; height: 32px;">
+    <img src="https://raw.githubusercontent.com/bearlikelion/mRemoteNG-Icons/refs/heads/master/ubuntu.ico" style="width: 32px; height: 32px;">
+    <img src="https://raw.githubusercontent.com/bearlikelion/mRemoteNG-Icons/refs/heads/master/apache.ico" style="width: 32px; height: 32px;">
+    <img src="https://raw.githubusercontent.com/bearlikelion/mRemoteNG-Icons/refs/heads/master/virtual_machine.ico" style="width: 32px; height: 32px;">
+    <img src="https://raw.githubusercontent.com/bearlikelion/mRemoteNG-Icons/refs/heads/master/wifi.ico" style="width: 32px; height: 32px;">
+    <img src="https://raw.githubusercontent.com/wispcasts/mikrotik-hotspot-page/refs/heads/master/favicon.ico" style="width: 32px; height: 32px;">
+    <img src="https://github.com/user-attachments/assets/1b222696-7c01-4bf4-ac65-43db252073a8" style="width: 32px; height: 32px;">
+</p>
     </div>
     <br>
     <hr width="100%">
